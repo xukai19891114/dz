@@ -6,7 +6,7 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
-import com.xuxu.controller.PageCodeEnum;
+import com.xuxu.constant.PageCodeEnum;
 import com.xuxu.dto.AdDto;
 import com.xuxu.service.AdService;
 

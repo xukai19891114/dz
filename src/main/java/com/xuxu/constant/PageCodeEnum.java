@@ -1,4 +1,4 @@
-package com.xuxu.controller;
+package com.xuxu.constant;
 
 public enum PageCodeEnum {
 	
